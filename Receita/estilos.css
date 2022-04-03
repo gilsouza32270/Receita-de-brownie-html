@@ -1,0 +1,177 @@
+body{
+   background-color:#f0f0f0;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+   
+}
+
+.box {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 798px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.title {
+    color: #ff6a28;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.sub-title {
+    margin-top: 8px;
+    font: size 16px;
+    color: #61656D;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imagem {
+    margin-top: 14px;
+    width: 100%;
+}
+
+.info-box {
+    width: 118px;
+    height: 85px; 
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.info-text {
+    font-size: 14px;
+    font-weight: 400;
+    color:#61656D ;
+    margin-top: 8px;
+    text-transform: uppercase;
+  }
+
+.icon {
+    width: 20px;
+    
+    
+}
+
+.info-strong-text {
+    margin-top: 6px;
+    color: #FF6A28;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  
+}
+
+.owner-box{
+    width: 238px;
+    height: 85px;
+    background-color:#F0F0F0 ;
+    display: flex;
+    
+}
+
+.owner-imagem {
+    width: 60px;
+    height: 60px;
+    margin-top: 12px;
+    margin-left: 19px;
+}
+
+.owner-info-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 11px;
+}
+
+.owner-name {
+    color: #ff6a28;
+    font-weight: 700;
+    font-size: 14px;
+  
+    
+}
+
+.owner-info {
+  font-size: 14px;
+  color: #61656D;
+  
+}
+
+.ingredients-box {
+  margin-top: 37px; 
+}
+
+.title-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.list {
+  list-style-position: inside;
+  margin-top: 12px;
+}
+
+.list-item {
+  margin: 10px;
+  color: #61656D;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.preparation-box {
+  margin-top: 16px;
+}
+
+.preparation-item {
+  margin-bottom: 20px;
+}
+
+.add-inf-box {
+  margin-top: 16px;
+  margin-bottom: 63px;
+ 
+
+}
+
+.secundary-title {
+  text-transform: uppercase;
+  padding: 8px;
+  text-align: center;
+  background-color: #f0f0f0;
+  color: #61656D;
+  font-size: 16px;
+}
+
+.add-info-text  {
+  margin-top: 16px;
+
+}
+
+.add-info-text p {
+  color: #61656D;
+  font-size: 14px;
+}
+
+
+
